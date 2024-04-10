@@ -28,6 +28,9 @@ In this milestone we continue with planning actives. We outline our tasks using 
 ## Milestone 3
 In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates.
 [Milestone 3 Details]()
+![Page 1 - Untitled - Google Chrome 2024-04-10 13-38-54](https://github.com/cis-famu/design-project-orange/assets/112123390/be3cc646-cf26-4561-83e8-289e8ad57df4)
+
+
 
 ## Milestone 4
 In this milestone, we are formalizing our project idea by creating our project charter and conducting a SWOT analysis. We also create out high-level budget and time estimates.
